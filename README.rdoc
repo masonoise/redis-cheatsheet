@@ -1,0 +1,19 @@
+= Redis Cheatsheet
+
+Handy command reference cheatsheet for Redis (http://code.google.com/p/redis/).
+
+== Version
+
+Version 2.0
+
+== Notes
+
+If you'd like to make changes, I've included the OmniGraffle file, although you may run into issues not having
+the fonts. I'll see if I can add the fonts as well, depending on licensing restrictions and so forth. Feel free
+to make changes and send a pull request, or just send me a note with suggestions and I'll try to keep this
+up to date as redis evolves.
+
+== Author
+
+Mason Jones ~~~ masonoise@charnel.com ~~~ @masonoise
+
