@@ -2,18 +2,13 @@
 
 Handy command reference cheatsheet for Redis (http://code.google.com/p/redis/).
 
+===== Please note that this is now quite old and hasn't been updated in a long time. I'm currently not heavily-using Redis and haven't had the opportunity to bring it up to date with the latest Redis. Feel free to do so if you're interested, of course!
+
 == Version
 
 Version 2.0
 
 == Notes
 
-If you'd like to make changes, I've included the OmniGraffle file, although you may run into issues not having
-the fonts. I'll see if I can add the fonts as well, depending on licensing restrictions and so forth. Feel free
-to make changes and send a pull request, or just send me a note with suggestions and I'll try to keep this
-up to date as redis evolves.
-
-== Author
-
-Mason Jones ~~~ masonoise@charnel.com ~~~ @masonoise
-
+If you'd like to make changes, I've included the OmniGraffle file, although you may run into issues if you don't have
+the fonts. Feel free to make changes and send a pull request, or open an issue.
